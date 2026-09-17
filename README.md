@@ -65,7 +65,7 @@ The `Pivot_table` sheet includes PivotTables for:
 
 The `SalesDashboard` sheet consolidates key KPIs (Total Revenue, Total Orders, AOV, Return Rate) with supporting charts into a single view for leadership.
 
-#DAshboard : 
+# Dashboard : 
 
 <img width="1843" height="648" alt="Screenshot 2026-09-17 160212" src="https://github.com/user-attachments/assets/2840ada7-2990-4ec8-ad04-da4c42c80f66" />
 
