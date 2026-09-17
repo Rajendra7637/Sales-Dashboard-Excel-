@@ -65,6 +65,11 @@ The `Pivot_table` sheet includes PivotTables for:
 
 The `SalesDashboard` sheet consolidates key KPIs (Total Revenue, Total Orders, AOV, Return Rate) with supporting charts into a single view for leadership.
 
+#DAshboard : 
+
+<img width="1843" height="648" alt="Screenshot 2026-09-17 160212" src="https://github.com/user-attachments/assets/2840ada7-2990-4ec8-ad04-da4c42c80f66" />
+
+
 ## 🛠️ Skills practiced
 
 TEXT functions (`TRIM`, `PROPER`, `UPPER`, `LOWER`, `SUBSTITUTE`), Find & Replace, Text to Columns, Flash Fill, data validation, duplicate removal, `VLOOKUP`/`INDEX-MATCH` for standardizing categories against a lookup table, PivotTables, PivotCharts, and conditional formatting for outlier detection.
